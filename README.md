@@ -42,3 +42,5 @@ interfejsu svake 2 sekunde
 Prema definisanoj konfiguraciji periodično očitavati sve analogne izlaze/ulaze i osvežavati vrednosti na korisničkom
 
 interfejsu svake 4 sekunde
+
+Djordje Sopalovic PR70-2023
